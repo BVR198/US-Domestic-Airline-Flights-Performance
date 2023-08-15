@@ -33,16 +33,16 @@ Below are the key reporting Items :
 ## Task 3 : Added the Dropdown menu
 * Created two dropdown menues for selceting the report type and year using `dcc.Dropdown()`
 * Set `id` as `input-type` to be a parameter.
-* Set options to list containing dictionaries with key as label and user provided value for labels in value.
+* Set `options` to list containing dictionaries with key as `label` and user provided value for labels in `value`.
 
-1st dictionary
+  1st dictionary
 
-label: Yearly Airline Performance Report
-value: OPT1
-2nd dictionary
+  * label: Yearly Airline Performance Report
+  * value: OPT1
+  2nd dictionary
 
-label: Yearly Airline Delay Report
-value: OPT2
-Set placeholder to Select a report type.
+  * label: Yearly Airline Delay Report
+  * value: OPT2
+* Set placeholder to `Select a report type`.
 
-Set width as 80%, padding as 3px, font size as 20px, text-align-last as center inside style parameter dictionary.
+* Set width as `80%`, padding as `3px`, font size as `20px`, text-align-last as `center` inside style parameter dictionary.
