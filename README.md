@@ -7,4 +7,5 @@ Below are the key reporting Items :
 * Yearly Average Flight Delay Statistics
 
 ## `Components of the Dashboard Report`
-Yearly Airline Performance Repprt
+### 1.Yearly Airline Performance Repprt
+* Number of Flights under different cancellation cateogory using `Bar Chart`
