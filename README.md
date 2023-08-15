@@ -19,3 +19,13 @@ Below are the key reporting Items :
 * Monthly average `Ntional Air System delay` by reporting airline for the given year.
 * Monthly average `Security delay` by reporting airline for the given year.
 * Monthly average `Late Aircraft delay` by reporting airline for the given year.
+## `What I had Done`
+## Task 1 : Imported Packages
+* `Pandas`
+* `dash`
+* `plotly`
+* `plotly_html_components as html`
+* `plotly_core_components as dcc`
+* `dash.dependencies`
+## Task 2 : Added Title to the Dashboard
+* Provided the title of the application 
