@@ -39,10 +39,12 @@ Below are the key reporting Items :
 
   * label: Yearly Airline Performance Report
   * value: OPT1
+    
   2nd dictionary
 
   * label: Yearly Airline Delay Report
   * value: OPT2
+    
 * Set placeholder to `Select a report type`.
 
 * Set width as `80%`, padding as `3px`, font size as `20px`, text-align-last as `center` inside style parameter dictionary.
