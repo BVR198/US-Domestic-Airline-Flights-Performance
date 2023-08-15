@@ -29,7 +29,8 @@ Below are the key reporting Items :
 * `dash.dependencies`
 ## Task 2 : Added Title to the Dashboard
 * Provided the title of the application 
-  dcc.Dropdown(id='....', 
+
+  * dcc.Dropdown(id='....', 
                    options=[
                            {'label': '....', 'value': '...'},
                            {'label': '....', 'value': '...'}
