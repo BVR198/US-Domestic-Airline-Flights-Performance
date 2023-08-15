@@ -24,8 +24,10 @@ Below are the key reporting Items :
 * `Pandas`
 * `dash`
 * `plotly`
-* `plotly_html_components as html`
-* `plotly_core_components as dcc`
+* `plotly.graph_objects as go`
+* `plotly.express as px`
+* `dash_html_components as html`
+* `dash_core_components as dcc`
 * `dash.dependencies`
 ## Task 2 : Added Title to the Dashboard
 * Provided the title of the application as `US Domestic Airline Flights Performance` using `html.H1()`
