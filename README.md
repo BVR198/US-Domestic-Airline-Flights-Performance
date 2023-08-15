@@ -48,3 +48,9 @@ Below are the key reporting Items :
 * Set placeholder to `Select a report type`.
 
 * Set width as `80%`, padding as `3px`, font size as `20px`, text-align-last as `center` inside style parameter dictionary.
+## Task 4 : Added a division with two empty divisions inside
+* Add a division with two empty divisions inside
+* Provide division `ids` as `plot4` and `plot5`. Display style as `flex`.
+## Task 5 : Added 5 ouput components
+* It is a list with 5 output parameters with component id and property. Here, the component property will be `children` as we have created empty division and passing in `dcc.Graph`
+* Component `ids` will be `plot1` , `plot2`, `plot2`, `plot4`, and `plot5`.
