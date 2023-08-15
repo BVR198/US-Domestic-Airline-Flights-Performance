@@ -5,3 +5,6 @@ As Data Analyst , We are given a task to monitor and report the US Domestics Air
 Below are the key reporting Items :
 * Yearly Airline Performance Repprt
 * Yearly Average Flight Delay Statistics
+
+## `Components of the Dashboard Report`
+Yearly Airline Performance Repprt
