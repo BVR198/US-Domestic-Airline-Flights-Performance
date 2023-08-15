@@ -13,3 +13,5 @@ Below are the key reporting Items :
 * Percentage of diverted airport landings per reprting airline using `Pie chart`
 * Number of flights flying from each state using `Choropleth Map`
 * Number of flights flying to each state from a reporting airline using `treemap chart`
+## 2. Yearly Average Flight Delay Statistics
+* Monthly average carrier delay by reporting airline for the givven year
