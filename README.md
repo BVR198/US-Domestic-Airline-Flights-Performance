@@ -16,3 +16,6 @@ Below are the key reporting Items :
 ### 2. Yearly Average Flight Delay Statistics
 * Monthly average `Carrier delay` by reporting airline for the givven year
 * Monthly average `Weather delay` by reporting airline for the givven year
+* Monthly average `Ntional Air System delay` by reporting airline for the given year.
+* Monthly average `Security` delay by reporting airline for the given year.
+* Monthly average `Late Aircraft` delay by reporting airline for the given year.
