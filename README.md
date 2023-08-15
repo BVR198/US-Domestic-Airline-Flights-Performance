@@ -54,3 +54,10 @@ Below are the key reporting Items :
 ## Task 5 : Added 5 ouput components
 * It is a list with 5 output parameters with component id and property. Here, the component property will be `children` as we have created empty division and passing in `dcc.Graph`
 * Component `ids` will be `plot1` , `plot2`, `plot2`, `plot4`, and `plot5`.
+## Task 6 : Average flight time by reporting airline
+* Created a line plot using returned dataframe `line_data` from the above function `compute_data_choice` using `plotly.express`.
+* Set:
+
+  * Figure name as `line_fig`
+  * Input data as `line_data`
+  * x as `Month`, y as `AirTime`, color as `Reporting_Airline` and title as `Average monthly flight time (minutes) by airline`.
