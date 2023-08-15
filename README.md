@@ -28,5 +28,9 @@ Below are the key reporting Items :
 * `plotly_core_components as dcc`
 * `dash.dependencies`
 ## Task 2 : Added Title to the Dashboard
-* Provided the title of the application as `US Domestic Airline Flights Performance` using `html.H!()`
+* Provided the title of the application as `US Domestic Airline Flights Performance` using `html.H1()`
+* Made the heading center aligned, set color as `#503D36`, and font size as `24`.
+## Task 3 : Added the Dropdown menu
+* Created two dropdown menues for selceting the report type and year using `dcc.Dropdown()`
+* Set `id` as `input-type` to be a parameter.
 
